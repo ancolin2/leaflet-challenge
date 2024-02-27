@@ -147,3 +147,5 @@ Comments are disabled for graded submissions in Bootcamp Spot. If you have quest
 ### References
 
 Dataset created by [the United States Geological Survey](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php).
+
+Note: Template for started code/comments created by instructor Sakib Bhuiyan. 
